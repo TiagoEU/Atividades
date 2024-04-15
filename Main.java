@@ -1,4 +1,4 @@
-
+// https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
 public class Main {
     
     //Açoes dos botões

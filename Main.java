@@ -7,7 +7,7 @@ public class Main {
     public static String ACT3 = "ACT3";
 
     public static void main(String[] args){
-        //Faça a tividde aqui
+        //Faça a atividde aqui
 
     }    
 }
